@@ -43,7 +43,7 @@ redirect_from:
       <li class="news-item">
         <span class="news-date">Sep 2025</span>
         <div class="news-content">
-          Drs. Yashar Kiarashi, Gari Clifford, and Allan Levey received a grant of <strong>$500,000</strong> for a research award titled "<strong>AI-Driven Sleep Study on Links Between Sleep and Neurodegeneration</strong>" from the Alzheimer's Association, The Michael J. Fox Foundation for Parkinson's Research, and CurePSP. In collaboration with Drs. James Lah, Amy Rodriguez, Donald Bliwise, and Lenora Higginbotham, NextSense in-ear EEG will be deployed for multi-night, at-home recordings in at-risk populations and to develop AI-driven analysis that identifies sleep-driven features associated with neurodegeneration biomarkers.
+          Drs. Yashar Kiarashi, Gari Clifford, and Allan Levey received a grant of <strong>$500,000</strong> for a research award titled "<strong>AI-Driven Sleep Study on Links Between Sleep and Neurodegeneration</strong>" from the Alzheimer's Association, The Michael J. Fox Foundation for Parkinson's Research, and CurePSP.
         </div>
       </li>
 
